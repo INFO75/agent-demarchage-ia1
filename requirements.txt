@@ -1,0 +1,6 @@
+openai
+gspread
+oauth2client
+twilio
+python-dotenv
+pandas
