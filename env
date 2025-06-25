@@ -1,0 +1,4 @@
+OPENAI_API_KEY=sk-your-openai-key
+TWILIO_SID=your-twilio-sid
+TWILIO_AUTH_TOKEN=your-twilio-auth-token
+TWILIO_NUMBER=+33xxxxxxxxx
